@@ -129,7 +129,6 @@ Have questions, suggestions, or want to connect? Feel free to reach out!
 ---
 
 *“Practice does not make perfect. Only perfect practice makes perfect.”* – **Vince Lombardi** 🏆
-```
 
 ### Features:
 - **Folder Structure** section to give a clean view of how files are organized.
