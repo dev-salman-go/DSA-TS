@@ -124,8 +124,7 @@ Check out the [Issues](https://github.com/yourusername/your-dsa-repo/issues) tab
 
 Have questions, suggestions, or want to connect? Feel free to reach out!
 
-- 💬 **[Twitter](https://twitter.com/yourusername)**
-- 📧 **Email: your.email@example.com**
+- 📧 **Email: dev.salman1508@gmail.com**
 
 ---
 
