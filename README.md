@@ -1,4 +1,3 @@
-```markdown
 # 🚀 TypeScript Data Structures & Algorithms 🧠
 
 Welcome to my **TypeScript Data Structures and Algorithms** repository! This project is dedicated to solving various **DSA problems** while honing TypeScript skills in a structured and organized way. 💻
